@@ -9,10 +9,12 @@
 ## Array
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/amannnn17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/amannnn17/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Hash Table
 |  |
 | ------- |
+| [1319-unique-number-of-occurrences](https://github.com/amannnn17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/amannnn17/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Sorting
 |  |
