@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amannnn17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/amannnn17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/amannnn17/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/amannnn17/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/amannnn17/Leetcode/tree/master/1635-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amannnn17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
