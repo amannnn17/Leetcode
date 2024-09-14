@@ -59,6 +59,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amannnn17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0443-string-compression](https://github.com/amannnn17/Leetcode/tree/master/0443-string-compression) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,4 +68,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amannnn17/Leetcode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [0443-string-compression](https://github.com/amannnn17/Leetcode/tree/master/0443-string-compression) |
 <!---LeetCode Topics End-->
