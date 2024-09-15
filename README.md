@@ -22,6 +22,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/amannnn17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/amannnn17/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/amannnn17/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/amannnn17/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2413-smallest-number-in-infinite-set](https://github.com/amannnn17/Leetcode/tree/master/2413-smallest-number-in-infinite-set) |
 | [2428-equal-row-and-column-pairs](https://github.com/amannnn17/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Sorting
@@ -72,4 +73,5 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/amannnn17/Leetcode/tree/master/0443-string-compression) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/amannnn17/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
