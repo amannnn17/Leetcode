@@ -14,6 +14,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/amannnn17/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/amannnn17/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1635-number-of-good-pairs](https://github.com/amannnn17/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amannnn17/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2428-equal-row-and-column-pairs](https://github.com/amannnn17/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 ## Hash Table
 |  |
@@ -76,5 +77,6 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/amannnn17/Leetcode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/amannnn17/Leetcode/tree/master/0443-string-compression) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amannnn17/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/amannnn17/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
