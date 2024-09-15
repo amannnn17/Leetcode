@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amannnn17/Leetcode/tree/master/0268-missing-number) |
+| [0935-orderly-queue](https://github.com/amannnn17/Leetcode/tree/master/0935-orderly-queue) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/amannnn17/Leetcode/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Counting
 |  |
@@ -58,6 +59,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/amannnn17/Leetcode/tree/master/0012-integer-to-roman) |
 | [0268-missing-number](https://github.com/amannnn17/Leetcode/tree/master/0268-missing-number) |
+| [0935-orderly-queue](https://github.com/amannnn17/Leetcode/tree/master/0935-orderly-queue) |
 | [1635-number-of-good-pairs](https://github.com/amannnn17/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -77,6 +79,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/amannnn17/Leetcode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/amannnn17/Leetcode/tree/master/0443-string-compression) |
+| [0935-orderly-queue](https://github.com/amannnn17/Leetcode/tree/master/0935-orderly-queue) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/amannnn17/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/amannnn17/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
